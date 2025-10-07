@@ -22,3 +22,4 @@ The repo contains a simple C program `hello.c` that prints "Hello, World!" to th
 
 ### Try it with spike (Spike RISC-V ISA Simulator)
 - `spike pk hello`
+<img width="385" height="98" alt="Output" src="https://github.com/user-attachments/assets/79dfe7d9-86f9-4919-ad40-edb78a41442c" />
